@@ -76,7 +76,7 @@ public class Pokemon {
      * Calling this method will cause this Pokemon to attack another Pokemon as follows:
      * <ul>
      * <li>We get the attack bonus and defense bonus.</li>
-     * <li>We roll the d6 die 3 times to calculate the damage.</li>
+     * <li>We roll the d6 dice 3 times to calculate the damage.</li>
      * <li>We then compare to see if the attack hit or missed, and see if this was a fatal
      * attack.</li>
      * </ul>
